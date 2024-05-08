@@ -1,16 +1,16 @@
-# deneme
+# Bank Queue App
 
-A new Flutter project.
+### [TR]
 
-## Getting Started
+Flutter kullanılarak geliştirilen bir projedir. Projedeki amaç bir bankada
+canlı olarak hangi gişede hangi sıra numarasının işlemi yapıldığını gösteren
+bir mobil uygulamadır. Kullanıcı şube ve gişe numarası girerek bilgilere
+ulaşabilir. İşlem bilgileri anlık olarak Web servis ten alınmaktadır.
 
-This project is a starting point for a Flutter application.
+### [EN]
 
-A few resources to get you started if this is your first Flutter project:
+A new Flutter project 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The aim of the project is a mobile application that shows which sequence number is being processed live at which box office in a bank. 
+The user can access the information by entering the branch and box office number.
+Transaction information is received instantly from the Web service.
